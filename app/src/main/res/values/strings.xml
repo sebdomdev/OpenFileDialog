@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpenFileDialog</string>
+    <string name="openfiledialog_path">Path:</string>
+    <string name="openfiledialog_open_file_button_label">Select File</string>
+    <string name="openfiledialog_open_file_with_folder_button_label">Select File or Folder</string>
+    <string name="openfiledialog_dialog_title">Select a File</string>
+    <string name="openfiledialog_dialog_with_folder_title">Select a File or Folder</string>
+    <string name="permission_request_read_external_storage">Give permission to read your phones storage</string>
+    <string name="permission_request_read_external_storage_denied">You can\'t select files or folders without giving the app permission to acces your phone\'s storage</string>
+</resources>
