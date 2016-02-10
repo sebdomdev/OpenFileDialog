@@ -5,9 +5,9 @@ Show a dialog in your android app that allows the user to select a file or folde
 
 ## Screenshots
 
-![alt tag](https://cloud.githubusercontent.com/assets/12089383/12931103/e5adac24-cf30-11e5-9da4-218d86fcdcd5.png)
-![alt tag](https://cloud.githubusercontent.com/assets/12089383/12931104/e5c58e7a-cf30-11e5-9ac9-3396f9aad56d.png)
-[![ScreenShot](https://cloud.githubusercontent.com/assets/12089383/12931105/e5c7f80e-cf30-11e5-90b3-acc91e859ff5.png)](https://youtu.be/AGe-LnhXk-g)
+![alt tag](https://cloud.githubusercontent.com/assets/12089383/12958423/79446846-cfe6-11e5-8a53-8220b24bc004.png)
+![alt tag](https://cloud.githubusercontent.com/assets/12089383/12958424/79460e80-cfe6-11e5-9f50-f3775e0843ac.png)
+[![ScreenShot](https://cloud.githubusercontent.com/assets/12089383/12958425/7946c2a8-cfe6-11e5-8639-8dce816d8e1e.png)](https://youtu.be/AGe-LnhXk-g)
 
 ## Code Example
 
