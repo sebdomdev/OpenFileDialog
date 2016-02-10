@@ -33,6 +33,8 @@ Add the following to your pom.xml:
 ```maven
 <dependency> <groupId>com.github.sebdomdev</groupId> <artifactId>open-file-dialog</artifactId> <version>1.0.1</version> <type>pom</type> </dependency>
 ```
+###Don't forget
+Your app needs the according permissions to acces the phones memory or an sd card. See [Using External Storage] (http://developer.android.com/guide/topics/data/data-storage.html#filesExternal) and [Requesting Permissions at Runtime](http://developer.android.com/training/permissions/requesting.html) or the [implementation in the example app](https://github.com/sebdomdev/OpenFileDialog/blob/master/app/src/main/java/de/mxapplications/openfiledialogexample/OpenFileDialogActivity.java) (line 63ff).
 
 ## Optional Settings
 
