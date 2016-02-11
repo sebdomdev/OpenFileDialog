@@ -75,7 +75,7 @@ public class OpenFileDialog extends Dialog {
     private OnCloseListener mOnCloseListener;
 
     /***
-     * Constructs a OpenFileDialog object with default settings.
+     * Constructs an OpenFileDialog object with default settings.
      *
      * @param context The parent context
      */
@@ -85,7 +85,7 @@ public class OpenFileDialog extends Dialog {
     }
 
     /***
-     * Constructs a OpenFileDialog object with default settings and a custom cancel listener.
+     * Constructs an OpenFileDialog object with default settings and a custom cancel listener.
      *
      * @param context The parent context
      * @param cancelListener The listener that's being called when the dialog is cancelled.
@@ -96,7 +96,7 @@ public class OpenFileDialog extends Dialog {
     }
 
     /***
-     * Constructs a OpenFileDialog object with default settings.
+     * Constructs an OpenFileDialog object with default settings.
      *
      * @param context The parent context
      * @param themeResId a style resource describing the theme to use for the
