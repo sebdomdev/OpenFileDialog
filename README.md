@@ -1,5 +1,4 @@
 # OpenFileDialog
-## Synopsis
 
 Show a dialog in your android app that allows the user to select a file or folder from his phones memory or SD card. 
 
@@ -7,7 +6,7 @@ Show a dialog in your android app that allows the user to select a file or folde
 
 ![alt tag](https://cloud.githubusercontent.com/assets/12089383/12958423/79446846-cfe6-11e5-8a53-8220b24bc004.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/12089383/12958424/79460e80-cfe6-11e5-9f50-f3775e0843ac.png)
-[![ScreenShot](https://cloud.githubusercontent.com/assets/12089383/12958425/7946c2a8-cfe6-11e5-8639-8dce816d8e1e.png)](https://youtu.be/AGe-LnhXk-g)
+[![ScreenShot](https://cloud.githubusercontent.com/assets/12089383/12958425/7946c2a8-cfe6-11e5-8639-8dce816d8e1e.png)](https://youtu.be/GVFLRnBA-nM)
 
 ## Code Example
 
