@@ -77,7 +77,8 @@ public class OpenFileDialog extends Dialog {
     /***
      * Constructs an OpenFileDialog object with default settings.
      *
-     * @param context The parent context
+     * @param context The Context the view is running in, through which it can
+     *        access the current theme, resources, etc.
      */
     public OpenFileDialog(Context context) {
         super(context);
@@ -87,7 +88,8 @@ public class OpenFileDialog extends Dialog {
     /***
      * Constructs an OpenFileDialog object with default settings and a custom cancel listener.
      *
-     * @param context The parent context
+     * @param context The Context the view is running in, through which it can
+     *        access the current theme, resources, etc.
      * @param cancelListener The listener that's being called when the dialog is cancelled.
      */
     public OpenFileDialog(Context context, OnCancelListener cancelListener) {
@@ -98,7 +100,8 @@ public class OpenFileDialog extends Dialog {
     /***
      * Constructs an OpenFileDialog object with default settings.
      *
-     * @param context The parent context
+     * @param context The Context the view is running in, through which it can
+     *        access the current theme, resources, etc.
      * @param themeResId a style resource describing the theme to use for the
      *                   window, or {@code 0} to use the default dialog theme
      *
