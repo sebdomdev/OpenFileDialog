@@ -22,7 +22,7 @@ new OpenFileDialog(context).setOnCloseListener(new OpenFileDialog.OnCloseListene
 
 ## Installation
 
-###1. Gracle dependency (JCenter)
+###1. Gradle dependency (JCenter)
 Add the following to your build.gradle:
 ```gradle
 compile 'com.github.sebdomdev:open-file-dialog:1.0.1'
